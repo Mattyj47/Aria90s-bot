@@ -317,7 +317,7 @@ def main():
 
     pl = spotify("POST", f"/me/playlists", token,
                  json={"name": pl_name, "description": pl_desc, "public": True})
-    spotify("POST", f"/playlists/{pl['id']}/tracks", token, json={"uris": uris})
+    spotify("POST", f"/playlists/{pl['id']}/items", token, json={"uris": uris})
 
     pl_url = pl.get("external_urls", {}).get("spotify", "")
 

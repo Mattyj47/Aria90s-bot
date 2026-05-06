@@ -159,6 +159,8 @@ def get_aria_chart(week: str) -> dict:
         },
         timeout=30,
     )
+    if not r.ok:
+        print(f"    Anthropic error detail: {r.text}")
     r.raise_for_status()
 
     text = "".join(c.get("text", "") for c in r.json().get("content", []))

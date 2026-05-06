@@ -1,0 +1,50 @@
+name: ARIA 90s Bot
+
+on:
+  schedule:
+    # Runs every 20 minutes. GitHub Actions is best-effort — actual
+    # interval may be 20–30 min, which is fine for this use case.
+    - cron: "*/20 * * * *"
+
+  # Also allows manual trigger from the Actions tab (useful for testing)
+  workflow_dispatch:
+
+jobs:
+  check-and-create:
+    runs-on: ubuntu-latest
+
+    # Required so the job can commit state.json back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          # Use the built-in token so the push step can write back
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run ARIA Bot
+        env:
+          SPOTIFY_CLIENT_ID:     ${{ secrets.SPOTIFY_CLIENT_ID }}
+          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+          ANTHROPIC_API_KEY:     ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python aria_bot.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name  "ARIA 90s Bot"
+          git config user.email "aria90s-bot@noreply"
+          git add state.json
+          # Only commit if state.json actually changed
+          git diff --staged --quiet || git commit -m "chore: update state [skip ci]"
+          git push

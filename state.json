@@ -1,5 +1,183 @@
 {
-  "used_weeks": [],
-  "current_playlist": null,
-  "history": []
+  "used_weeks": [
+    "1995-07-16"
+  ],
+  "current_playlist": {
+    "id": "6EeZicmCdJULkAQty9WJbZ",
+    "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 16 July 1995",
+    "url": "https://open.spotify.com/playlist/6EeZicmCdJULkAQty9WJbZ",
+    "week": "1995-07-16",
+    "label": "16 July 1995",
+    "keys": [
+      "Earth Song Michael Jackson",
+      "Gangsta's Paradise Coolio featuring L.V.",
+      "I Believe/Up and Away Cher",
+      "Boombastic Shaggy",
+      "Kiss from a Rose Seal",
+      "Common People Pulp",
+      "Dreamer/Livin' the Dream Livin' Joy",
+      "Cotton Eye Joe Rednex",
+      "Fairground Simply Red",
+      "You Are Not Alone Michael Jackson"
+    ],
+    "songs": [
+      {
+        "n": 1,
+        "t": "Earth Song",
+        "a": "Michael Jackson"
+      },
+      {
+        "n": 2,
+        "t": "Gangsta's Paradise",
+        "a": "Coolio featuring L.V."
+      },
+      {
+        "n": 3,
+        "t": "I Believe/Up and Away",
+        "a": "Cher"
+      },
+      {
+        "n": 4,
+        "t": "Boombastic",
+        "a": "Shaggy"
+      },
+      {
+        "n": 5,
+        "t": "Kiss from a Rose",
+        "a": "Seal"
+      },
+      {
+        "n": 6,
+        "t": "Common People",
+        "a": "Pulp"
+      },
+      {
+        "n": 7,
+        "t": "Dreamer/Livin' the Dream",
+        "a": "Livin' Joy"
+      },
+      {
+        "n": 8,
+        "t": "Cotton Eye Joe",
+        "a": "Rednex"
+      },
+      {
+        "n": 9,
+        "t": "Fairground",
+        "a": "Simply Red"
+      },
+      {
+        "n": 10,
+        "t": "You Are Not Alone",
+        "a": "Michael Jackson"
+      }
+    ],
+    "track_uris": [
+      "spotify:track:4GCGH6TJ69neckwITeBFXK",
+      "spotify:track:6KQ8W7nFyG03TYoPoFsNmI",
+      "spotify:track:7sziTn5nHwrWf4K7gISaaU",
+      "spotify:track:1jqLJBQwo7yBCqYQWukLkq",
+      "spotify:track:0AKcA69xtIVPhse3R5INg2",
+      "spotify:track:2fXKyAyPrEa24c6PJyqznF",
+      "spotify:track:1zu44xsE3LVlwei7u1v5YN",
+      "spotify:track:06hsdMbBxWGqBO0TV0Zrkf",
+      "spotify:track:3lghqWELEWj9yEPvme7c4W",
+      "spotify:track:3AoeaZs8dFemFJr3JdzOL0"
+    ],
+    "last_track_uri": "spotify:track:3AoeaZs8dFemFJr3JdzOL0",
+    "created_at": "2026-05-06T04:15:50.793880+00:00",
+    "found": 10,
+    "total": 10,
+    "missing": []
+  },
+  "history": [
+    {
+      "id": "6EeZicmCdJULkAQty9WJbZ",
+      "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 16 July 1995",
+      "url": "https://open.spotify.com/playlist/6EeZicmCdJULkAQty9WJbZ",
+      "week": "1995-07-16",
+      "label": "16 July 1995",
+      "keys": [
+        "Earth Song Michael Jackson",
+        "Gangsta's Paradise Coolio featuring L.V.",
+        "I Believe/Up and Away Cher",
+        "Boombastic Shaggy",
+        "Kiss from a Rose Seal",
+        "Common People Pulp",
+        "Dreamer/Livin' the Dream Livin' Joy",
+        "Cotton Eye Joe Rednex",
+        "Fairground Simply Red",
+        "You Are Not Alone Michael Jackson"
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "t": "Earth Song",
+          "a": "Michael Jackson"
+        },
+        {
+          "n": 2,
+          "t": "Gangsta's Paradise",
+          "a": "Coolio featuring L.V."
+        },
+        {
+          "n": 3,
+          "t": "I Believe/Up and Away",
+          "a": "Cher"
+        },
+        {
+          "n": 4,
+          "t": "Boombastic",
+          "a": "Shaggy"
+        },
+        {
+          "n": 5,
+          "t": "Kiss from a Rose",
+          "a": "Seal"
+        },
+        {
+          "n": 6,
+          "t": "Common People",
+          "a": "Pulp"
+        },
+        {
+          "n": 7,
+          "t": "Dreamer/Livin' the Dream",
+          "a": "Livin' Joy"
+        },
+        {
+          "n": 8,
+          "t": "Cotton Eye Joe",
+          "a": "Rednex"
+        },
+        {
+          "n": 9,
+          "t": "Fairground",
+          "a": "Simply Red"
+        },
+        {
+          "n": 10,
+          "t": "You Are Not Alone",
+          "a": "Michael Jackson"
+        }
+      ],
+      "track_uris": [
+        "spotify:track:4GCGH6TJ69neckwITeBFXK",
+        "spotify:track:6KQ8W7nFyG03TYoPoFsNmI",
+        "spotify:track:7sziTn5nHwrWf4K7gISaaU",
+        "spotify:track:1jqLJBQwo7yBCqYQWukLkq",
+        "spotify:track:0AKcA69xtIVPhse3R5INg2",
+        "spotify:track:2fXKyAyPrEa24c6PJyqznF",
+        "spotify:track:1zu44xsE3LVlwei7u1v5YN",
+        "spotify:track:06hsdMbBxWGqBO0TV0Zrkf",
+        "spotify:track:3lghqWELEWj9yEPvme7c4W",
+        "spotify:track:3AoeaZs8dFemFJr3JdzOL0"
+      ],
+      "last_track_uri": "spotify:track:3AoeaZs8dFemFJr3JdzOL0",
+      "created_at": "2026-05-06T04:15:50.793880+00:00",
+      "found": 10,
+      "total": 10,
+      "missing": []
+    }
+  ]
 }

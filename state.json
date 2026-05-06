@@ -1,96 +1,185 @@
 {
   "used_weeks": [
-    "1995-07-16"
+    "1995-07-16",
+    "1993-07-18"
   ],
   "current_playlist": {
-    "id": "6EeZicmCdJULkAQty9WJbZ",
-    "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 16 July 1995",
-    "url": "https://open.spotify.com/playlist/6EeZicmCdJULkAQty9WJbZ",
-    "week": "1995-07-16",
-    "label": "16 July 1995",
+    "id": "1ubLlMjWEXRBr9YCnRwRcX",
+    "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 18 July 1993",
+    "url": "https://open.spotify.com/playlist/1ubLlMjWEXRBr9YCnRwRcX",
+    "week": "1993-07-18",
+    "label": "18 July 1993",
     "keys": [
-      "Earth Song Michael Jackson",
-      "Gangsta's Paradise Coolio featuring L.V.",
-      "I Believe/Up and Away Cher",
-      "Boombastic Shaggy",
-      "Kiss from a Rose Seal",
-      "Common People Pulp",
-      "Dreamer/Livin' the Dream Livin' Joy",
-      "Cotton Eye Joe Rednex",
-      "Fairground Simply Red",
-      "You Are Not Alone Michael Jackson"
+      "What Is Love Haddaway",
+      "I Will Always Love You Whitney Houston",
+      "Relight My Fire Take That featuring Lulu",
+      "No Limit 2 Unlimited",
+      "Dreams Gabrielle",
+      "What's Up? 4 Non Blondes",
+      "(Everything I Do) I Do It for You Bryan Adams",
+      "Boom Shake the Room DJ Jazzy Jeff & The Fresh Prince",
+      "Show Me Heaven Maria McKee",
+      "Would? Alice in Chains"
     ],
     "songs": [
       {
         "n": 1,
-        "t": "Earth Song",
-        "a": "Michael Jackson"
+        "t": "What Is Love",
+        "a": "Haddaway"
       },
       {
         "n": 2,
-        "t": "Gangsta's Paradise",
-        "a": "Coolio featuring L.V."
+        "t": "I Will Always Love You",
+        "a": "Whitney Houston"
       },
       {
         "n": 3,
-        "t": "I Believe/Up and Away",
-        "a": "Cher"
+        "t": "Relight My Fire",
+        "a": "Take That featuring Lulu"
       },
       {
         "n": 4,
-        "t": "Boombastic",
-        "a": "Shaggy"
+        "t": "No Limit",
+        "a": "2 Unlimited"
       },
       {
         "n": 5,
-        "t": "Kiss from a Rose",
-        "a": "Seal"
+        "t": "Dreams",
+        "a": "Gabrielle"
       },
       {
         "n": 6,
-        "t": "Common People",
-        "a": "Pulp"
+        "t": "What's Up?",
+        "a": "4 Non Blondes"
       },
       {
         "n": 7,
-        "t": "Dreamer/Livin' the Dream",
-        "a": "Livin' Joy"
+        "t": "(Everything I Do) I Do It for You",
+        "a": "Bryan Adams"
       },
       {
         "n": 8,
-        "t": "Cotton Eye Joe",
-        "a": "Rednex"
+        "t": "Boom Shake the Room",
+        "a": "DJ Jazzy Jeff & The Fresh Prince"
       },
       {
         "n": 9,
-        "t": "Fairground",
-        "a": "Simply Red"
+        "t": "Show Me Heaven",
+        "a": "Maria McKee"
       },
       {
         "n": 10,
-        "t": "You Are Not Alone",
-        "a": "Michael Jackson"
+        "t": "Would?",
+        "a": "Alice in Chains"
       }
     ],
     "track_uris": [
-      "spotify:track:4GCGH6TJ69neckwITeBFXK",
-      "spotify:track:6KQ8W7nFyG03TYoPoFsNmI",
-      "spotify:track:7sziTn5nHwrWf4K7gISaaU",
-      "spotify:track:1jqLJBQwo7yBCqYQWukLkq",
-      "spotify:track:0AKcA69xtIVPhse3R5INg2",
-      "spotify:track:2fXKyAyPrEa24c6PJyqznF",
-      "spotify:track:1zu44xsE3LVlwei7u1v5YN",
-      "spotify:track:06hsdMbBxWGqBO0TV0Zrkf",
-      "spotify:track:3lghqWELEWj9yEPvme7c4W",
-      "spotify:track:3AoeaZs8dFemFJr3JdzOL0"
+      "spotify:track:0OTO8ZF2YqFQVw9hnZylTd",
+      "spotify:track:0BsbPzgtF3Ljzgtp5WmvwO",
+      "spotify:track:0DFA4eMq3mQe5ufcu88dMy",
+      "spotify:track:7voHUmPNDuYZ1SW1mwRu26",
+      "spotify:track:4rV3AYCf4BBBCkIpyLPwUP",
+      "spotify:track:0jWgAnTrNZmOGmqgvHhZEm",
+      "spotify:track:1Eb90nmqTrxylKFhcUzW8P",
+      "spotify:track:5ZDL1Ap2Mwhk5xhmQ41Ei2",
+      "spotify:track:1umFfZGw8bsBd1a0fLTQI3",
+      "spotify:track:5sFDReWLrZHLFZFjHsjUTS"
     ],
-    "last_track_uri": "spotify:track:3AoeaZs8dFemFJr3JdzOL0",
-    "created_at": "2026-05-06T04:15:50.793880+00:00",
+    "last_track_uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
+    "created_at": "2026-05-06T10:05:27.034378+00:00",
     "found": 10,
     "total": 10,
     "missing": []
   },
   "history": [
+    {
+      "id": "1ubLlMjWEXRBr9YCnRwRcX",
+      "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 18 July 1993",
+      "url": "https://open.spotify.com/playlist/1ubLlMjWEXRBr9YCnRwRcX",
+      "week": "1993-07-18",
+      "label": "18 July 1993",
+      "keys": [
+        "What Is Love Haddaway",
+        "I Will Always Love You Whitney Houston",
+        "Relight My Fire Take That featuring Lulu",
+        "No Limit 2 Unlimited",
+        "Dreams Gabrielle",
+        "What's Up? 4 Non Blondes",
+        "(Everything I Do) I Do It for You Bryan Adams",
+        "Boom Shake the Room DJ Jazzy Jeff & The Fresh Prince",
+        "Show Me Heaven Maria McKee",
+        "Would? Alice in Chains"
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "t": "What Is Love",
+          "a": "Haddaway"
+        },
+        {
+          "n": 2,
+          "t": "I Will Always Love You",
+          "a": "Whitney Houston"
+        },
+        {
+          "n": 3,
+          "t": "Relight My Fire",
+          "a": "Take That featuring Lulu"
+        },
+        {
+          "n": 4,
+          "t": "No Limit",
+          "a": "2 Unlimited"
+        },
+        {
+          "n": 5,
+          "t": "Dreams",
+          "a": "Gabrielle"
+        },
+        {
+          "n": 6,
+          "t": "What's Up?",
+          "a": "4 Non Blondes"
+        },
+        {
+          "n": 7,
+          "t": "(Everything I Do) I Do It for You",
+          "a": "Bryan Adams"
+        },
+        {
+          "n": 8,
+          "t": "Boom Shake the Room",
+          "a": "DJ Jazzy Jeff & The Fresh Prince"
+        },
+        {
+          "n": 9,
+          "t": "Show Me Heaven",
+          "a": "Maria McKee"
+        },
+        {
+          "n": 10,
+          "t": "Would?",
+          "a": "Alice in Chains"
+        }
+      ],
+      "track_uris": [
+        "spotify:track:0OTO8ZF2YqFQVw9hnZylTd",
+        "spotify:track:0BsbPzgtF3Ljzgtp5WmvwO",
+        "spotify:track:0DFA4eMq3mQe5ufcu88dMy",
+        "spotify:track:7voHUmPNDuYZ1SW1mwRu26",
+        "spotify:track:4rV3AYCf4BBBCkIpyLPwUP",
+        "spotify:track:0jWgAnTrNZmOGmqgvHhZEm",
+        "spotify:track:1Eb90nmqTrxylKFhcUzW8P",
+        "spotify:track:5ZDL1Ap2Mwhk5xhmQ41Ei2",
+        "spotify:track:1umFfZGw8bsBd1a0fLTQI3",
+        "spotify:track:5sFDReWLrZHLFZFjHsjUTS"
+      ],
+      "last_track_uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
+      "created_at": "2026-05-06T10:05:27.034378+00:00",
+      "found": 10,
+      "total": 10,
+      "missing": []
+    },
     {
       "id": "6EeZicmCdJULkAQty9WJbZ",
       "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 16 July 1995",

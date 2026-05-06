@@ -50,6 +50,8 @@ def spotify(method: str, path: str, token: str, **kwargs):
         headers={"Authorization": f"Bearer {token}", "Content-Type": "application/json"},
         **kwargs
     )
+    if not r.ok:
+        print(f"  Spotify error {r.status_code}: {r.text[:400]}")
     r.raise_for_status()
     return r.json() if r.content else {}
 

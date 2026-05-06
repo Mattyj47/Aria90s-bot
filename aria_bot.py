@@ -38,6 +38,7 @@ def get_spotify_token() -> str:
             "client_secret": SPOTIFY_CLIENT_SECRET,
         },
     )
+    print(f"API status: {r.status_code} body: {r.text[:300]}")
     r.raise_for_status()
     return r.json()["access_token"]
 

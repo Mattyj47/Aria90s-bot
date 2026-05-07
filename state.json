@@ -1,97 +1,186 @@
 {
   "used_weeks": [
     "1995-07-16",
-    "1993-07-18"
+    "1993-07-18",
+    "1997-12-28"
   ],
   "current_playlist": {
-    "id": "1ubLlMjWEXRBr9YCnRwRcX",
-    "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 18 July 1993",
-    "url": "https://open.spotify.com/playlist/1ubLlMjWEXRBr9YCnRwRcX",
-    "week": "1993-07-18",
-    "label": "18 July 1993",
+    "id": "0ANuXw9CS2aFHAOcUZWHLn",
+    "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 28 December 1997",
+    "url": "https://open.spotify.com/playlist/0ANuXw9CS2aFHAOcUZWHLn",
+    "week": "1997-12-28",
+    "label": "28 December 1997",
     "keys": [
-      "What Is Love Haddaway",
-      "I Will Always Love You Whitney Houston",
-      "Relight My Fire Take That featuring Lulu",
-      "No Limit 2 Unlimited",
-      "Dreams Gabrielle",
-      "What's Up? 4 Non Blondes",
-      "(Everything I Do) I Do It for You Bryan Adams",
-      "Boom Shake the Room DJ Jazzy Jeff & The Fresh Prince",
-      "Show Me Heaven Maria McKee",
-      "Would? Alice in Chains"
+      "Candle in the Wind 1997 Elton John",
+      "Together Again Janet Jackson",
+      "Tearin' Up My Heart *NSYNC",
+      "How Deep Is Your Love Dua Lipa",
+      "Iris Goo Goo Dolls",
+      "I Will Make Love to You Boyz II Men",
+      "Under the Bridge Red Hot Chili Peppers",
+      "The Boy Is Mine Brandy & Monica",
+      "Believe Cher",
+      "Wicked Game Chris Isaak"
     ],
     "songs": [
       {
         "n": 1,
-        "t": "What Is Love",
-        "a": "Haddaway"
+        "t": "Candle in the Wind 1997",
+        "a": "Elton John"
       },
       {
         "n": 2,
-        "t": "I Will Always Love You",
-        "a": "Whitney Houston"
+        "t": "Together Again",
+        "a": "Janet Jackson"
       },
       {
         "n": 3,
-        "t": "Relight My Fire",
-        "a": "Take That featuring Lulu"
+        "t": "Tearin' Up My Heart",
+        "a": "*NSYNC"
       },
       {
         "n": 4,
-        "t": "No Limit",
-        "a": "2 Unlimited"
+        "t": "How Deep Is Your Love",
+        "a": "Dua Lipa"
       },
       {
         "n": 5,
-        "t": "Dreams",
-        "a": "Gabrielle"
+        "t": "Iris",
+        "a": "Goo Goo Dolls"
       },
       {
         "n": 6,
-        "t": "What's Up?",
-        "a": "4 Non Blondes"
+        "t": "I Will Make Love to You",
+        "a": "Boyz II Men"
       },
       {
         "n": 7,
-        "t": "(Everything I Do) I Do It for You",
-        "a": "Bryan Adams"
+        "t": "Under the Bridge",
+        "a": "Red Hot Chili Peppers"
       },
       {
         "n": 8,
-        "t": "Boom Shake the Room",
-        "a": "DJ Jazzy Jeff & The Fresh Prince"
+        "t": "The Boy Is Mine",
+        "a": "Brandy & Monica"
       },
       {
         "n": 9,
-        "t": "Show Me Heaven",
-        "a": "Maria McKee"
+        "t": "Believe",
+        "a": "Cher"
       },
       {
         "n": 10,
-        "t": "Would?",
-        "a": "Alice in Chains"
+        "t": "Wicked Game",
+        "a": "Chris Isaak"
       }
     ],
     "track_uris": [
-      "spotify:track:0OTO8ZF2YqFQVw9hnZylTd",
-      "spotify:track:0BsbPzgtF3Ljzgtp5WmvwO",
-      "spotify:track:0DFA4eMq3mQe5ufcu88dMy",
-      "spotify:track:7voHUmPNDuYZ1SW1mwRu26",
-      "spotify:track:4rV3AYCf4BBBCkIpyLPwUP",
-      "spotify:track:0jWgAnTrNZmOGmqgvHhZEm",
-      "spotify:track:1Eb90nmqTrxylKFhcUzW8P",
-      "spotify:track:5ZDL1Ap2Mwhk5xhmQ41Ei2",
-      "spotify:track:1umFfZGw8bsBd1a0fLTQI3",
-      "spotify:track:5sFDReWLrZHLFZFjHsjUTS"
+      "spotify:track:3DUcaEvPO72PijivCjtZcU",
+      "spotify:track:1aJnGme5ZRltYTp8FJ52eZ",
+      "spotify:track:73q3FpQVXWk5eSUnyo83E4",
+      "spotify:track:2JoZzpdeP2G6Csfdq5aLXP",
+      "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+      "spotify:track:7dfl9X38RhIvB3oSmmneq3",
+      "spotify:track:7o6yXSYGgdfNXPQDUcSDnR",
+      "spotify:track:6sHsXIJoEN5JpdkGMQDJxt",
+      "spotify:track:2goLsvvODILDzeeiT4dAoR",
+      "spotify:track:7w5AOd6HrDIHewHfpABEss"
     ],
-    "last_track_uri": "spotify:track:5sFDReWLrZHLFZFjHsjUTS",
-    "created_at": "2026-05-06T10:05:27.034378+00:00",
+    "last_track_uri": "spotify:track:7w5AOd6HrDIHewHfpABEss",
+    "created_at": "2026-05-07T09:17:33.402434+00:00",
     "found": 10,
     "total": 10,
     "missing": []
   },
   "history": [
+    {
+      "id": "0ANuXw9CS2aFHAOcUZWHLn",
+      "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 28 December 1997",
+      "url": "https://open.spotify.com/playlist/0ANuXw9CS2aFHAOcUZWHLn",
+      "week": "1997-12-28",
+      "label": "28 December 1997",
+      "keys": [
+        "Candle in the Wind 1997 Elton John",
+        "Together Again Janet Jackson",
+        "Tearin' Up My Heart *NSYNC",
+        "How Deep Is Your Love Dua Lipa",
+        "Iris Goo Goo Dolls",
+        "I Will Make Love to You Boyz II Men",
+        "Under the Bridge Red Hot Chili Peppers",
+        "The Boy Is Mine Brandy & Monica",
+        "Believe Cher",
+        "Wicked Game Chris Isaak"
+      ],
+      "songs": [
+        {
+          "n": 1,
+          "t": "Candle in the Wind 1997",
+          "a": "Elton John"
+        },
+        {
+          "n": 2,
+          "t": "Together Again",
+          "a": "Janet Jackson"
+        },
+        {
+          "n": 3,
+          "t": "Tearin' Up My Heart",
+          "a": "*NSYNC"
+        },
+        {
+          "n": 4,
+          "t": "How Deep Is Your Love",
+          "a": "Dua Lipa"
+        },
+        {
+          "n": 5,
+          "t": "Iris",
+          "a": "Goo Goo Dolls"
+        },
+        {
+          "n": 6,
+          "t": "I Will Make Love to You",
+          "a": "Boyz II Men"
+        },
+        {
+          "n": 7,
+          "t": "Under the Bridge",
+          "a": "Red Hot Chili Peppers"
+        },
+        {
+          "n": 8,
+          "t": "The Boy Is Mine",
+          "a": "Brandy & Monica"
+        },
+        {
+          "n": 9,
+          "t": "Believe",
+          "a": "Cher"
+        },
+        {
+          "n": 10,
+          "t": "Wicked Game",
+          "a": "Chris Isaak"
+        }
+      ],
+      "track_uris": [
+        "spotify:track:3DUcaEvPO72PijivCjtZcU",
+        "spotify:track:1aJnGme5ZRltYTp8FJ52eZ",
+        "spotify:track:73q3FpQVXWk5eSUnyo83E4",
+        "spotify:track:2JoZzpdeP2G6Csfdq5aLXP",
+        "spotify:track:6Qyc6fS4DsZjB2mRW9DsQs",
+        "spotify:track:7dfl9X38RhIvB3oSmmneq3",
+        "spotify:track:7o6yXSYGgdfNXPQDUcSDnR",
+        "spotify:track:6sHsXIJoEN5JpdkGMQDJxt",
+        "spotify:track:2goLsvvODILDzeeiT4dAoR",
+        "spotify:track:7w5AOd6HrDIHewHfpABEss"
+      ],
+      "last_track_uri": "spotify:track:7w5AOd6HrDIHewHfpABEss",
+      "created_at": "2026-05-07T09:17:33.402434+00:00",
+      "found": 10,
+      "total": 10,
+      "missing": []
+    },
     {
       "id": "1ubLlMjWEXRBr9YCnRwRcX",
       "name": "\ud83c\udde6\ud83c\uddfa ARIA Top 10 \u00b7 18 July 1993",
